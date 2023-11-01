@@ -1,1 +1,41 @@
-
+﻿product_id,product_name,description,product_category,unit_price,unit_cost
+P01,iPhone X,Apple iPhone X,Mobile Phone,524993,475088
+P02,Acer Nitro 5,Acer Nitro 5 with 500GB HDD,Laptop,1274993,1077720
+P03,Samsung S22 Ultra,Samsung S22 Ultra with 500GB storage,Mobile Phone,749993,673965
+P04,iPhone 12,Apple iPhone 12 with 125GB storage,Mobile Phone,674993,585233
+P05,Lightning Cable,Apple USB Lighting cable,Accessories,7500,6608
+P06,USB cable,General Type A USB cable,Accessories,7493,6630
+P07,Type C cable,Type C USB Cable,Accessories,8243,6255
+P08,Samsung A20,Samsung A20 with 32GB storage,Mobile Phone,59993,56858
+P09,HP Gaming 15,HP Pavillion Gaming 15 with 1TB storage,Laptop,1199993,931440
+P10,Dell G5,Dell G series 15 Gaming Laptop with 1TB storage,Laptop,1350000,1204005
+P11,Dell G7,Dell G series 7 Gaming Laptop with 1TB storage,Laptop,1574993,1179803
+P12,Dell Charger 60w,Dell Charger 60w for laptops,Accessories,11993,10883
+P13,Dell Charger 135w,Dell Charger 135w for laptops,Accessories,14243,12420
+P14,HP Charger 60w,HP Charger 60w for laptops,Accessories,9743,8580
+P15,HP Charger 135w,HP Charger 135w for laptops,Accessories,16493,14153
+P16,Xbox 360 gamepad,Xbox 360 USB wire gamepad ,Accessories,11700,10988
+P17,Xbox 360 wireless gamepad,Xbox 360 USB wireless gamepad ,Accessories,13500,11108
+P18,Xbox 1 gamepad,Xbox 1 USB wireless gamepad,Accessories,34125,24585
+P19,Ucom USB gamepad,Ucom Generic single gamepad,Accessories,7493,6668
+P20,Ucom Dual-USB  gamepad,Ucom Generic double  gamepad,Accessories,9488,7665
+P21,Samsung S10,Samsung S10 with 64GB storage,Mobile Phone,509993,474795
+P22,Samsung S10+,Samsung S10+ with 64GB storage,Mobile Phone,599993,530685
+P23,Samsung S23,Samsung S23 with 500GB storage,Mobile Phone,1349993,1276763
+P24,iPhone XR,iPhone XR with 128GB storage,Mobile Phone,153750,138630
+P25,iPhone XS,iPhone XS with 128GB storage,Mobile Phone,149993,123188
+P26,iPhone 7+,iPhone 7+ with 64GB storage,Mobile Phone,94125,69638
+P27,Acer Aspire 5 ,Acer Aspire 5 A515-46-R3UB with 128GB SSD storage,Laptop,224993,168570
+P28,Apple Macbook Pro M2,Apple 2023 MacBook Pro Laptop M2 Pro chip with 1TB SSD storage,Laptop,1836750,1682378
+P29,Macbook Air 13.6,Apple 2022 MacBook Air Laptop with M2 chip with 500GB SSd storage,Laptop,734993,570210
+P30,Apple 35w Dual USB charger,Apple 35W Dual USB-C Port Compact Power Adapter,Accessories,44250,34523
+P31,Apple USB-C to Lightning cable,Apple USB-C to Lightning cable(1m),Accessories,14250,12068
+P32,Apple Magic Mouse,"Apple Magic Mouse Wireless, Bluetooth, Rechargeable. Works with Mac or iPad Multi-Touch Surface",Accessories,46073,35985
+P33,Lenovo IdeaPad Flex 5i,Lenovo - 2022 - IdeaPad Flex 5i - 2-in-1 Chromebook Laptop with 128GB SSD storage,Laptop,224993,195743
+P34,HP Pavillion 17,"2022 HP Pavilion 17 Laptop, 17.3 with 1TB storage",Laptop,487493,437588
+P35,ASUS TUF F15,ASUS TUF F15 Gaming Laptop with 512GB storage,Laptop,487493,416588
+P36,ASUS ROG Z13,ASUS ROG Flow Z13 (2022) Gaming Laptop Tablet with 1TB SSD storage,Laptop,1049250,813435
+P37,MSI Gaming Laptop,MSI 15.6 FHD 144Hz Gaming Laptop with 500GB storage,Laptop,659250,484703
+P38,Samsung Galaxy S21 5G,Samsung Galaxy S21 5G with 128GB storage,Mobile Phone,217493,178868
+P39,SAMSUNG Galaxy Z Fold 4,SAMSUNG Galaxy Z Fold 4 Flex Mode with 256GB storage,Mobile Phone,1087493,947625
+P40,OnePlus 11 5G,OnePlus 11 5G with 128GB storage,Mobile Phone,524993,432383
